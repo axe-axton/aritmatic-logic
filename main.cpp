@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    /*//soal 1
+    //soal 1
     int a,b=0;
     cout<<"input: ";
     cin>>a;
@@ -23,7 +23,7 @@ int main()
     temp%=10;
     cout<<"digit terkhir: "<<temp<<endl;
 
-    /*//soal 3
+    //soal 3
     int c,sum=0,get_val;
     cout<<"input: ";
     cin>>c;
@@ -81,7 +81,7 @@ int main()
         }if(!get_count)
             continue;
         cout<<i<<"muncul sebanyak "<<get_count<<" kali\n";
-    }*/
+    }
 
     return 0;
 }

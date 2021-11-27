@@ -1,2 +1,2 @@
 # aritmatic-logic
-tugas bro erza
+tugas bro erza.
